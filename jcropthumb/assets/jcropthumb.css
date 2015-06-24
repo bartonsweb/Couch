@@ -1,0 +1,6 @@
+a.recreate_tb{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+label.jcrop{display:inline-block;min-width:50px;}
